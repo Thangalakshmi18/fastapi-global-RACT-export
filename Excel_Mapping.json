@@ -1,0 +1,18 @@
+{
+  "RACT_Number": "RACT Number (Enter a unique integer to identify the row in the table)",
+  "Hazardous_Situation_ID": "Hazardous Situation ID (A unique number to identify the hazardous situation)",
+  "Hazard": "Hazard (Potential source of harm)",
+  "Hazardous_Situation": "Hazardous Situation (circumstance in which people, property, or the environment are exposed to one or more hazard(s))",
+  "Harm": "Harm (description of the physical injury or damage to the health of people)",
+  "Risk_Analysis_Critical":"Inherent probability of Critical Harm (Results in permanent impairment of function, OR life-threatening injury requiring additional medical interventions, OR death)",
+  "Risk_Analysis_Moderate":"Inherent Probability of Moderate Harm (Results in temporary or non-life threatening injury/impairment that requires escalation of care/additional medical interventions OR results in permanent injury that does not result in loss of function)",
+  "Risk_Analysis_Minor":"Inherent Probability of Minor Harm (Results in no harm OR an asymptomatic or minimally symptomatic patient not requiring any intervention OR a patient with a temporary injury/impairment that does not require escalation of care or additional medical interventions.)",
+  "Risk_Control_FSOE": "Foreseeable Sequence of Events - FSOE (Circumstances, including normal use, that can lead to a hazardous situation)",
+  "Risk_Reduction": "Risk Reduction (Identify the highest level method(s) to prevent the hazardous situation from occurring)",
+  "Effectiveness_Demonstration": "Demonstration of Effectiveness (Describe the evidence that demonstrates effectiveness of the risk reduction(s))",
+  "Probability_P1": "Residual Probability of Hazardous Situation (P1)(Determine the residual probability (post-mitigations) of the hazardous situation occuring, considering foreseeable sequences resulting from use, design, and manufacturing, with all risk reductions effective)",
+  "Residual_Risk_Critical": "Residual Probability of Critical Harm (Pharm)(Results in permanent impairment of function, OR life-threatening injury requiring additional medical interventions, OR death)",
+  "Residual_Risk_Moderate": "Residual Probability of Moderate Harm (Pharm)(Results in temporary or non-Life threatening injury/impairment that requires escalation of care/additional medical interventions OR results in permanent injury that does not result in loss of function)",
+  "Residual_Risk_Minor":"Residual Probability of Minor Harm (Pharm)(Results in no harm OR an asymptomatic or minimally symptomatic patient not requiring any intervention OR a patient with a temporary injury/impairment that does not require escalation of care or additional medical interventions.)"
+
+}
