@@ -1,0 +1,17 @@
+{
+    "hazardous_situation_id" :"Hazardous Situation ID",
+    "critical_qualitative" : "Critical  Qualitative",
+    "moderate_qualitative" : "Moderate Qualitative",
+    "minor_qualitative" : "Minor Qualitative",
+    "critical_semi_quantitative" : "Critical Semi-Quantitative",
+    "moderate_semi_quantitative" : "Moderate Semi-Quantitative",
+    "minor_semi_quantitative" : "Minor Semi-Quantitative",
+    "probability_of_hazardous_situation_p1" : "Propability of Hazardous situation (P1)",
+    "critical" : "Critical",
+    "moderate" : "Moderate",
+    "minor" : "Minor",
+    "critical_pharm_qualitative" : "Critical Q",
+    "moderate_pharm_qualitative" : "Moderate Q",
+    "minor_pharm_qualitative" : "Minor Q"
+
+}
